@@ -1,7 +1,7 @@
 {
   "name": "route-action",
   "version": "1.0.0",
-  "description": "A redux action meant to be used in conjunction with the redouter framework.",
+  "description": "A redux action creator meant to be used in conjunction with the redouter framework.",
   "main": "lib/index.js",
   "scripts": {
     "compile": "rm -rf lib/; babel --presets es2015,stage-0 -d lib/ src/",
