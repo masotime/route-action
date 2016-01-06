@@ -8,6 +8,10 @@
     "prepublish": "npm run compile",
     "test": "mocha --compilers js:babel-core/register"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masotime/route-action.git"
+  },  
   "keywords": [
     "redux"
   ],
